@@ -1,0 +1,5 @@
+{
+    "kotlin.languageServer.enabled": true,
+    "kotlin.languageServer.runtime": "example-path-to-kotlin-language-server-executable"
+  }
+  
